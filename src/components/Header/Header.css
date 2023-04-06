@@ -1,0 +1,15 @@
+.nav a.active.nav-link{
+    background-color: skyblue;
+    color: black;
+    border-radius: 5%;
+  }
+  .nav a:hover{
+    color:skyblue;
+  }
+  
+  .nav a{
+    color: white;
+  }
+  /* .nav a.inactive.nav-link{
+    color:yellow;
+  } */

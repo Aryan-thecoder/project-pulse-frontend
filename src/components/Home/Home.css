@@ -1,0 +1,13 @@
+.home-cards{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+    gap:50px;
+    justify-content: space-evenly;
+    flex: 0 0 20%;
+}
+
+.nav-item img{
+    margin-right: 900px;
+  }
+  
